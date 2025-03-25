@@ -15,12 +15,12 @@ const weatherData = {
         humidity: 80,
         description: "Rainy",
     },
-    "Paris": {
+    "Tirunelveli": {
         temperature: 20,
         humidity: 65,
         description: "Clear",
     },
-    "Sydney": {
+    "Tenkasi": {
         temperature: 25,
         humidity: 50,
         description: "Windy",
